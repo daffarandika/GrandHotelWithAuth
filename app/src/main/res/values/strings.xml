@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Grand Hotel</string>
+    <string name="cleaning_room_1_s">Cleaning Room: %1$s</string>
+    <string name="job_1_s">Job: %1$s</string>
+    <string name="date_of_birth_1_s">Date of Birth: %1$s</string>
+    <string name="address_1_s">Address: %1$s</string>
+    <string name="phone_1_s">Phone: %1$s</string>
+    <string name="email_1_s">Email: %1$s</string>
+    <string name="name_1_s">Name: %1$s</string>
+    <string name="username_1_s">Username: %1$s</string>
+    <string name="capacity_1_s">Capacity: %1$s</string>
+    <string name="price_1_s">Price: %1$s</string>
+</resources>
